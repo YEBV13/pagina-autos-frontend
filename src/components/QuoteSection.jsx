@@ -68,13 +68,13 @@ export function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <div>
-          <strong>Apex Shield Auto Studio</strong> — Paint protection,
+          <strong>Ing. Yonatan E. Barrera Villegas</strong> — Paint protection,
           ceramic coating, wraps &amp; tint.
         </div>
         <div className="draft-note">
           DRAFT — sample business data. Replace with the real business details.
         </div>
-        <div>© {new Date().getFullYear()} Apex Shield Auto Studio</div>
+        <div>© {new Date().getFullYear()} BarreNet</div>
       </div>
     </footer>
   );
