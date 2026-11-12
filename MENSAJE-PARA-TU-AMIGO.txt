@@ -1,0 +1,37 @@
+Mensaje listo para enviar a tu amigo (WhatsApp / texto). Copia, ajusta
+el saludo y envía. Sirve para arrancar la página con sus datos reales
+y para no tocar su página actual hasta que la nueva esté lista.
+
+---
+
+Hola [nombre], ya te armé un borrador de la página nueva con la misma
+estructura de la que me mostraste, pero con otro diseño y colores.
+Para dejarla con los datos de tu negocio necesito que me pases esto:
+
+1. Nombre del negocio, ciudad y dirección
+2. Teléfono, correo e Instagram que quieras mostrar
+3. Horarios de atención
+4. Servicios que ofreces, con los precios que quieras publicar
+5. Tu logo (si tienes) y fotos de tus trabajos
+6. Reseñas reales de clientes que pueda publicar (o me das acceso a
+   tu perfil de Google para sacarlas)
+
+Y para no dejarte sin página ni un día, también dime:
+
+7. ¿Dónde tienes hoy tu página? (Wix, GoDaddy, Squarespace, otra)
+8. ¿Cuánto pagas al mes y qué incluye?
+9. ¿El dominio (la dirección .com) está a tu nombre o a nombre de
+   ese proveedor?
+
+Con eso te dejo la página lista en una dirección temporal para que
+la revises. No canceles tu servicio actual hasta que la nueva esté
+funcionando con tu dominio, yo te aviso cuándo.
+
+---
+
+Notas para Johnny (no enviar):
+- La página está en inglés porque sus clientes son de EE. UU.
+- Costo estimado con backend: ~$7–$10 USD/mes (Netlify $0 + API
+  Railway/Render ~$5–$7 + Supabase $0 + dominio ~$1).
+- El dominio y las cuentas deben quedar a nombre de tu amigo; el
+  hosting/API pueden quedar en tus cuentas si así lo acuerdan.
