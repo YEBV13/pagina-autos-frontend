@@ -4,8 +4,8 @@
 // ============================================================
 
 export const BUSINESS = {
-  name: 'Apex Shield Auto Studio',
-  shortName: 'Apex Shield',
+  name: 'Ing. Yonatan E. Barrera Villegas',
+  shortName: 'BarreNet',
   phone: '(555) 123-4567',
   phoneHref: 'tel:+15551234567',
   email: 'hello@apexshield.example',

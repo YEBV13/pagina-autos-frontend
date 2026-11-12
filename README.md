@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Página de negocio de autos — Front (React + Vite)
 
 Página informativa de un negocio de estética y protección de autos
@@ -113,3 +114,6 @@ VITE_API_URL=http://localhost:5000
 3. Build command: `npm run build` — Publish directory: `dist`.
 4. Te da una URL temporal (por ejemplo `pagina-autos.netlify.app`) para
    que tu amigo la revise antes de apuntar el dominio real.
+=======
+# pagina-autos-frontend
+>>>>>>> dbb2dc9d5a4587e3a879efc44223069b3cd83896
